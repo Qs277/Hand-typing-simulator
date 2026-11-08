@@ -7,7 +7,7 @@
 
 ## 下载
 
-- **Windows 单文件版**：[`手打模拟器.exe`](../../releases/latest)（免安装，双击即用）
+- **Windows 单文件版**：[`ShouDa.exe`](../../releases/latest)（Release 附件，免安装单文件版）（免安装，双击即用）
 - 源码：直接克隆本仓库，或下载 [shouda.py](shouda.py)
 
 ## 这是什么
